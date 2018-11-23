@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "969324006630",
+    "firebase_url": "https://aplicaciongastosandroid.firebaseio.com",
+    "project_id": "aplicaciongastosandroid",
+    "storage_bucket": "aplicaciongastosandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969324006630:android:1394774fcf46d4e1",
+        "android_client_info": {
+          "package_name": "gastos.druman.com.gastos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969324006630-ce5gbg1fcbfoqnlfnhj0651c17c712v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gastos.druman.com.gastos",
+            "certificate_hash": "866ef03101719790991809de2471a39c5e57af14"
+          }
+        },
+        {
+          "client_id": "969324006630-7vsl8ccj2otthc496jp6op9hij1orfg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAri1wvJoQyKJ0q4vVWOdsu9G68xxn2Mac"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969324006630-7vsl8ccj2otthc496jp6op9hij1orfg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
